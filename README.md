@@ -9,7 +9,7 @@
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #333;
 }
 header {
     background-color: #333;
@@ -50,14 +50,14 @@ footer {
             <ul>
                 <li><a href="#">Início</a></li>
                 <li><a href="#">Sobre</a></li>
-                <li><a href="#">Serviços</a></li>
-                <li><a href="#">Contato</a></li>
+                <li><a href="#">Conatos</a></li>
+                <li><a href="#">outros</a></li>
             </ul>
         </nav>
     </header>
     <main>
-        <h2>Sobre Nós</h2>
-        <p> Lore yharim 
+        <h2>Lore Do Yharim </h2>
+        <p>  
         Poucos sabiam que, no momento em que Yharim nasceu, ele estava destinado a governar o mundo. A se tornar um Tirano.
 
 
@@ -75,20 +75,14 @@ Por volta do momento em que Yharim completou 11 anos, Ignalius começou a partic
 
 Ignalius então cometeria uma ofensa terrível ao Conselho da Selva, uma ofensa tão grande que o conselho exigiu que toda a sua família fosse jogada na lava do Submundo. No dia seguinte, que era o décimo segundo aniversário de Yharim, ele e sua mãe foram arrastados para fora de casa por dois guardas reais, este último sendo espancado até ficar inconsciente enquanto tentava resistir. Ignalius foi forçado a assistir os outros dois queimarem na lava como punição, mas havia perdido muito a cabeça naquele momento para se importar, então ele foi jogado também. Enquanto a carne de Yharim queimava na lava, o ovo de dragão que ele tomou a precaução de trazer consigo eclodiu em um bebê dragão, que rapidamente amadureceu com o calor da lava circundante e carregou o jovem Yharim mortalmente ferido para um local seguro, uma vez que o conselho o considerou morto.
 
-
-
-
-</p>
-
-imagens/.png Dyonyboy/documentos/imagens/.png
-
-        <h2>Nossos Serviços</h2>
-        <p>Aqui você pode adicionar informações sobre os serviços oferecidos.</p>
+<main>
     </main>
-    <footer>
-        <p>&copy; 2024 Brasil</p>
+      <footer>   
+       
+<p>2024 Brasil</p> 
     </footer>
-</body>
-</html>
+</p>
+    </body>
+       </html>
 
 
