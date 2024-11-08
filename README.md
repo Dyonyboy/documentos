@@ -74,6 +74,7 @@ Por volta do momento em que Yharim completou 11 anos, Ignalius começou a partic
 
 
 Ignalius então cometeria uma ofensa terrível ao Conselho da Selva, uma ofensa tão grande que o conselho exigiu que toda a sua família fosse jogada na lava do Submundo. No dia seguinte, que era o décimo segundo aniversário de Yharim, ele e sua mãe foram arrastados para fora de casa por dois guardas reais, este último sendo espancado até ficar inconsciente enquanto tentava resistir. Ignalius foi forçado a assistir os outros dois queimarem na lava como punição, mas havia perdido muito a cabeça naquele momento para se importar, então ele foi jogado também. Enquanto a carne de Yharim queimava na lava, o ovo de dragão que ele tomou a precaução de trazer consigo eclodiu em um bebê dragão, que rapidamente amadureceu com o calor da lava circundante e carregou o jovem Yharim mortalmente ferido para um local seguro, uma vez que o conselho o considerou morto.
+<title>Lore Da Calamitas</title>
 
 <main>
     </main>
